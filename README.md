@@ -1,5 +1,16 @@
+# AWS CDK Static Site Stack Python Example
+    * S3 Static Website
+    * CloudFront
+    * Proper Route53 Routing
 
-# Welcome to your CDK Python project!
+[Tutorial Video](https://youtu.be/HDpnVuj6gUY)
+
+[Setup Info](https://kevanpeters.com/post/cdk_tut/)
+
+
+---
+---
+### Welcome to your CDK Python project!
 
 This is a blank project for Python development with CDK.
 
