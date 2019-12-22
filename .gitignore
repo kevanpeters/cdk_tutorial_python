@@ -1,0 +1,5 @@
+.env/
+cdk.out/
+
+*.egg-info
+*__pycache__*

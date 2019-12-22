@@ -20,6 +20,10 @@ setuptools.setup(
 
     install_requires=[
         "aws-cdk.core",
+        "aws-cdk.aws_s3",
+        "aws-cdk.aws_cloudfront",
+        "aws-cdk.aws-route53",
+        "aws-cdk.aws-route53-targets",
     ],
 
     python_requires=">=3.6",
